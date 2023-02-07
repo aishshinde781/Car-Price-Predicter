@@ -11,7 +11,11 @@ Most of the project has been developed using Python as the programming language 
 
 
 -Scikit-Learn, regression models and cross validation techniques.
+
+
 -Pandas, data analysis purposes.
+
+
 -Sklearn, parallelization of the hyperparameter tuning process.
 
 
