@@ -1,22 +1,25 @@
 # Car-Price-Predicter
 
-1.Introduction
+1. Objective:
 
-This project aims tp predict the car price of an used car by taking its parameter company name, it's model name, year of purchase, fuel type, No of kilometers driven.and the it predicts the possible price of the car.
+In this project, we will be predicting the prices of used cars.we will be bulding machine learning model and see how the model performs.
 
-2.Tools
+2. Data used:
 
+Here we have used the data from the kaggle. 
 
-Most of the project has been developed using Python as the programming language of choice and the following libraries:
+3. Data insepection:
 
-
--Scikit-Learn, regression models and cross validation techniques.
-
-
--Pandas, data analysis purposes.
-
-
--Sklearn, parallelization of the hyperparameter tuning process.
-
-
-![Screenshot (57)](https://user-images.githubusercontent.com/105923718/225853803-4d4bedac-a532-4032-959d-bae446c16677.png)
+In this section , we will explore the data. First let's see what columns we have in the data and their types along with missing values information.
+ 
+ ![Screenshot (57)](https://user-images.githubusercontent.com/105923718/225853803-4d4bedac-a532-4032-959d-bae446c16677.png)
+ 
+ We can observe that data have 892 rows and 6 columns.
+ 
+ We can see that there are missing values in the data in 2 columns i.e km driven and fuel types.
+ 
+ 'Price' column/feature is going to be the target column or dependent feature in this project.
+ 
+  4. Data preparation:
+ 
+ 
