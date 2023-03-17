@@ -19,3 +19,4 @@ Most of the project has been developed using Python as the programming language 
 -Sklearn, parallelization of the hyperparameter tuning process.
 
 
+![Screenshot (57)](https://user-images.githubusercontent.com/105923718/225853803-4d4bedac-a532-4032-959d-bae446c16677.png)
