@@ -20,6 +20,28 @@ In this section , we will explore the data. First let's see what columns we have
  
  'Price' column/feature is going to be the target column or dependent feature in this project.
  
-  4. Data preparation:
+ 4.Data preparation:
+  
+  Here we will clean the data and prepare it for training the model.
+  
+ 'Year' column 
+ 
+  After analyzing the year column we found that it does not contain any missing values but it has many non-year values so we can drop that rows which contain non-year values and convert the year column into a integer type.
+  
+'Price' column
+
+ price column also have the same problem instead car price value there is a row which says Ask for price so we can drop that rows and convert that column into integer.
+ 
+ 'Kms-driven' column
+ 
+ kms driven column has Nan values we can drop that Nan values.
+ 
+ 'Name' column
+ 
+ in the name column the car name is two big and inconsistient so we keep first theree words of car name.
+  
+  
+  
+  
  
  
