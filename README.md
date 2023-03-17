@@ -39,6 +39,8 @@ In this section , we will explore the data. First let's see what columns we have
  'Name' column
  
  in the name column the car name is two big and inconsistient so we keep first theree words of car name.
+ 
+
   
   
   
