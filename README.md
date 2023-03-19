@@ -40,6 +40,13 @@ In this section , we will explore the data. First let's see what columns we have
  
  in the name column the car name is two big and inconsistient so we keep first theree words of car name.
  
+ 5.Data spliting and scaling
+ 
+ we have done and 80=20 split on the data. 80% of the data will be used for training and 20% data will be used for testing.
+ 
+ 
+ 
+ 
 
   
   
